@@ -1,1 +1,3 @@
 http://hallur-domain.surge.sh
+
+you can use the war file that's included in this git repository... as of now it refuses to run in tomcat but works fine in netbeans
